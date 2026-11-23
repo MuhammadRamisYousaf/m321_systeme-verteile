@@ -1,0 +1,42 @@
+# Python: virtuelle Umgebungen, Cache und Paket-Builds
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+.eggs/
+
+# Java und Gradle
+.gradle/
+*.class
+build/
+target/
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# JavaScript und Testberichte
+node_modules/
+dist/
+coverage/
+
+# Lokale Konfiguration und Logs
+.env
+.env.*
+!.env*.example
+!.env*.sample
+!.env*.template
+*.log
+
+# Editor- und Betriebssystemdateien
+.idea/
+*.iml
+.vscode/*.local.json
+.DS_Store
+Thumbs.db
+Desktop.ini
