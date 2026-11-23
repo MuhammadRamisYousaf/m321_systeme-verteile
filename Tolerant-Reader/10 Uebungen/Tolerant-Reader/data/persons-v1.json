@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p-101",
+    "firstName": "Anna",
+    "lastName": "Muster",
+    "email": "anna.muster@example.ch",
+    "address": "Bahnhofstrasse 12, 8001 Zürich"
+  },
+  {
+    "id": "p-102",
+    "firstName": "Luca",
+    "lastName": "Bernasconi",
+    "email": "luca.bernasconi@example.ch",
+    "address": "Via Nassa 5, 6900 Lugano"
+  }
+]

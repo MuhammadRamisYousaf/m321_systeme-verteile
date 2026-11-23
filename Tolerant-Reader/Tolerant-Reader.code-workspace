@@ -1,0 +1,19 @@
+{
+    "folders": [
+        { "path": "10 Uebungen/Tolerant-Reader" }
+    ],
+    "tasks": {
+        "version": "2.0.0",
+        "tasks": [
+            {
+                "label": "Tolerant Reader: Tests",
+                "type": "process",
+                "command": "${workspaceFolder}/gradlew.bat",
+                "args": ["test", "--rerun-tasks", "--console=plain"],
+                "options": { "cwd": "${workspaceFolder}" },
+                "group": { "kind": "test", "isDefault": true },
+                "problemMatcher": []
+            }
+        ]
+    }
+}

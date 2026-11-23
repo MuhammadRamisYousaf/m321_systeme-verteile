@@ -1,0 +1,24 @@
+[
+  {
+    "id": "p-101",
+    "firstName": "Anna",
+    "lastName": "Muster",
+    "email": "anna.muster@example.ch",
+    "addressDetails": {
+      "street": "Bahnhofstrasse 12",
+      "zipCode": "8001",
+      "city": "Zürich"
+    }
+  },
+  {
+    "id": "p-102",
+    "firstName": "Luca",
+    "lastName": "Bernasconi",
+    "email": "luca.bernasconi@example.ch",
+    "addressDetails": {
+      "street": "Via Nassa 5",
+      "zipCode": "6900",
+      "city": "Lugano"
+    }
+  }
+]
